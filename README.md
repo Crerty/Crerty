@@ -1,3 +1,4 @@
+
 <p align="center"><img width=50 src="https://user-images.githubusercontent.com/65072459/198973371-ed2b99c1-7e34-4d6e-87f8-b97242b17b42.png"></p>
 
 안녕하세요. Crerty를 운영했던 BlueWhite입니다. crerty.com 등 기존 도메인으로 접속하시면 이 글이 나옵니다. 일단 2022년 초 리뉴얼을 마친 Crerty는 3월 이후 부실한 운영을 이어가다가, 5월 경 갑자기 서버가 닫히고 지금도 접속이 불가능한 상황입니다.
